@@ -40,8 +40,10 @@ We have developed a 2D- and 3D-based pipeline for evaluation of whole slide imag
 
 ## Demo Video
 <div align="center">
-  <video src="https://github.com/janan-arslan/MALMO/assets/95415605/1a1226da-c33f-41de-99b8-97722f76bf47">
+  <video src="https://github.com/janan-arslan/MALMO-intro/assets/95415605/b6976458-1ca7-49a9-ae5b-7c1df353cee0">
 </div>
+
+
 
 
 ## Research Output
